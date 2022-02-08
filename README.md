@@ -5,7 +5,7 @@
   <li> Frontend (React) </li>
   <li> Backend (Node - Express) </li>
   <li> Database (MongoDB) (local) </li>
-<ul>
+</ul>
 
 <h3> FRONTEND :- </h3>
 <ul>
